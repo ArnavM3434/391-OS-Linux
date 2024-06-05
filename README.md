@@ -1,1 +1,1 @@
-Linux kernel created from scratch as part of ECE 391 , with only bootimg files provided. 
+Linux kernel created from scratch as part of ECE 391 , with only bootimg files and certain user programs (like shell) provided. Implemented syscalls, device drivers, paging, round robin scheduling, etc.
